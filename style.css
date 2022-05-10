@@ -24,6 +24,7 @@ body{
     margin: 0 auto;
     max-width: 100vh;
     font-size: 1.6rem;
+    background: var(--color-quinta);
     
 }
 
