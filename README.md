@@ -9,9 +9,9 @@ Neste desafio foram visto
 
 # Imagens do projeto
 ## Mobile
-![image](https://user-images.githubusercontent.com/84877737/167688143-c177e191-d6f8-4563-be8f-595294c90847.png)
+![image](https://user-images.githubusercontent.com/84877737/167689222-d1c979c5-4138-4f45-9042-82887b8fa845.png)
 ## Tablet
-![image](https://user-images.githubusercontent.com/84877737/167688060-b5f872c9-53d5-4ba0-aa62-4f3ddbb268ab.png)
+![image](https://user-images.githubusercontent.com/84877737/167689319-3f083407-c327-41e4-a279-f77b6b394298.png)
 ## Desktop
-![image](https://user-images.githubusercontent.com/84877737/167687883-ceebf4f0-8b0f-4ffc-9e88-c32d7ba73788.png)
+![image](https://user-images.githubusercontent.com/84877737/167689123-a1e872bf-3c05-498f-92ba-a8b9173353e6.png)
 
