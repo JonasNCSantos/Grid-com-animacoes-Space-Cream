@@ -71,7 +71,7 @@ p{
 }
 
 main{  
-    animation: downtop 900ms 350ms;
+    animation: downtop 900ms 350ms backwards;
     display: flex;
     flex-direction: column;
     gap: 3.2rem
@@ -100,7 +100,7 @@ main .card span{
     position: absolute;
     top: 1.6rem;
     right: 1.6rem;
-    animation: topdown 900ms 350ms;
+    animation: topdown 900ms 350ms backwards;
 }
 
 footer{
@@ -151,7 +151,7 @@ footer{
         margin: 6rem 3rem;
     }
     header{
-        animation: topdown 900ms 350ms;
+        animation: topdown 900ms 350ms backwards;
     }
     header p{
         max-width: 55rem;
@@ -169,7 +169,7 @@ footer{
         min-width: 20vh;
         height: 140vh;
         background: var(--color-secundary);
-        animation: leftside 900ms 350ms;
+        animation: leftside 900ms 350ms backwards;
     }
 
    header p{
@@ -228,7 +228,7 @@ footer{
         min-width: 20vh;
         height: 100vh;
         background: var(--color-secundary);
-        animation: leftside 900ms 350ms;
+        animation: leftside 900ms 350ms backwards;
     }
 
    header p{
